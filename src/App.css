@@ -1,0 +1,72 @@
+*{
+box-sizing: border-box;
+}
+.service-card{
+background-color: #00b39b;
+border-radius: 10px;
+overflow: hidden;
+width: 650px;
+display: flex;
+flex-direction: column;
+padding: 0px 20px;
+margin: 0 auto;
+
+}
+.service-card-options{
+width: 120px;
+}
+.category{
+  color:white;
+}
+.title{
+color:white;
+margin: 0 0 20px;}
+.screen{
+  widows: 400px;
+  align-self: flex-end;
+  position: relative;
+  right: -150px;
+}
+.features{
+display: flex;
+background-color:  #dff5f4;
+}
+.feature-card{
+color: #00b39b;
+background-color: white;
+margin:10px;
+padding: 10px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+text-align: center;
+width: 200px;
+min-height: 250px;
+border-radius: 4px;
+}
+.feature-card-description{
+  color: gray;
+}
+.titre{
+
+  color:#00b39b;
+}
+
+.classServiceCard{
+display: flex;
+justify-content: center;
+
+}
+.classeOffices{
+margin: 0 auto;
+padding: 5%;
+display: flex;
+justify-content: center;
+
+}
+.warsaw{
+
+  display: flex;
+  justify-content: center;
+}
